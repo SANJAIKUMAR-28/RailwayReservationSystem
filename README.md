@@ -1,4 +1,4 @@
-#Railway Reservation Console Application 
+# Railway Reservation Console Application 
 
 Description: 
 The Railway Reservation Console Application is a C++ program designed to facilitate the booking and management of railway tickets through a text-based interface. This application allows users to perform various functions related to railway ticketing, including booking tickets, canceling reservations, checking train schedules, and viewing available seats. 
